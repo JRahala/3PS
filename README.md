@@ -1,2 +1,2 @@
 # 3PS
-Third person shooter tutorial
+C# tutorial for Eton College. Third person shooter game programmed for Unity.
